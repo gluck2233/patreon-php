@@ -1,5 +1,5 @@
 {
-    "name": "soatok/patreon",
+    "name": "gluck2233/patreon",
     "description": "Interact with the Patreon API via OAuth.",
     "license": "Apache-2.0",
     "authors": [
@@ -11,6 +11,10 @@
             "name": "Soatok Dreamseeker",
             "email": "soatok.dhole@gmail.com",
             "homepage": "https://soatok.com"
+        },
+        {
+            "name": "Gluck",
+            "email": "gluck2233@gmail.com"
         }
     ],
     "minimum-stability": "stable",
@@ -23,9 +27,9 @@
         "squizlabs/php_codesniffer": "^3.0"
     },
     "require": {
-        "php": ">=7.0.0",
+        "php": ">=8.0.0",
         "paragonie/certainty": "^2",
-        "paragonie/hidden-string": "^1",
+        "paragonie/hidden-string": "^2",
         "paragonie/sodium_compat": "^1",
         "ext-curl": "*",
         "ext-json": "*"
