@@ -28,7 +28,7 @@
     },
     "require": {
         "php": ">=8.0.0",
-        "paragonie/certainty": "^2",
+        "gluck2233/certainty": "^1",
         "paragonie/hidden-string": "^2",
         "paragonie/sodium_compat": "^1",
         "ext-curl": "*",
